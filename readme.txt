@@ -12,3 +12,6 @@ new
 
 
 git first commit info.
+
+
+Creatubg a new branch is quick & simple.
