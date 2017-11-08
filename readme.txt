@@ -26,3 +26,7 @@ insert new lizi in laoer.
 
 
 update a new lizi in dev.
+
+
+
+test merge is auto commit.
