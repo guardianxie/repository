@@ -19,5 +19,6 @@ Creatubg a bew branch is quick AND simple.
 
 
 
-<:insert info in master.
+insert info in master.
 
+insert new lizi in laoer.
