@@ -14,4 +14,4 @@ new
 git first commit info.
 
 
-Creatubg a new branch is quick & simple.
+Creatubg a bew branch is quick AND simple.
